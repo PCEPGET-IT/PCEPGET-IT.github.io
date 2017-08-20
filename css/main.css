@@ -6,7 +6,6 @@ ul {
 	overflow: hidden;
 	display:flex;
 	flex-direction: row;
-	flexwrap: wrap;
 	height: 50px;
 }
 li {
