@@ -1,13 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Dosis|Open+Sans|Allerta|Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Dosis|Open+Sans');
 body {
 	width: 700px;
 	margin: auto;
 }
 h1, h2, h3, p {
 	text-align: center;
-}
-ul {
-	margin: auto;
 }
 iframe {
 	display: block;
@@ -17,10 +14,6 @@ iframe {
 h1, h2 {
 	font-family: 'Dosis', sans-serif;
 	letter-spacing: 2px;
-	display:inline-block;
-}
-h2 {
-	float:right;
 }
 .navbar {
     list-style:none;
