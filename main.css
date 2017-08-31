@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis|Open+Sans|Allerta|Ubuntu');
+
+body {
+	padding: 2%;
+}
+h1, h2 {
+	font-family: 'Dosis', sans-serif;
+	letter-spacing: 2px;
+	display:inline-block;
+}
+h2 {
+	float:right;
+}
+.navbar {
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.navbar ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:#eee;
+}
+.navbar li{
+  display:inline;
+}
+.navbar a{
+	font-size: 20px;
+  display:inline-block;
+  padding:10px;
+}
+li a:hover {
+	color: white;
+	background-color: darkgray;
+}
+table#year, th, td {
+	border: 1px solid gray;
+	border-collapse:collapse;
+}
+table, th, td {
+	padding: 15px;
+}
